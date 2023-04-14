@@ -4,7 +4,7 @@ This is the repository containing the code used for my paper review.
 
 Before anything else, unzip the SatMAE archive. This folder should contain the folder `SatMAE`.
 
-Then, make sure to download the [datasets models]() by clicking on the embedded link, and place them in the appropriate folders (`fmow-sentinel-2` and `bigearthnet-mm` for the datasets, `SatMAE/trained_models` for the models).
+Then, make sure to download the [datasets and models](https://drive.google.com/file/d/1A8DgEkL51IqvwMJog_S1mMm3WeA9M6W9/view?usp=share_link) by clicking on the embedded link, and place them in the appropriate folders (`fmow-sentinel-2` and `bigearthnet-mm` for the datasets, `SatMAE/trained_models` for the models).
 The repo should then look like this:
 
 | --- bigearthnet-mm \
