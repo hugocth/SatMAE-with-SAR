@@ -22,7 +22,7 @@ The repo should then look like this:
 | --- | --- | --- finetune-vit-base-e7.pth \
 | --- | --- | --- fintuned-satMAE-MM-e1.pth \
 | --- | --- | --- satMAE-MM-e5.pth \
-| --- | --- ... \
+| --- | --- ... 
 
 To run the evaluations :
 ```
